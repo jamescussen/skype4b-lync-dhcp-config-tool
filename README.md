@@ -28,7 +28,7 @@ This tool is a Powershell script that runs with a GUI front end for easy of conf
 **Version 1.01:** Some options setting were being reported as unsupported due to inconsistent netsh output. Corrected issue with displaying of inconsistent netsh command output. 
 
 
-**All information on this tool can be found here:** [http://www.myskypelab.com/2015/11/skype4b-lync-dhcp-config-tool.html](http://www.myskypelab.com/2015/11/skype4b-lync-dhcp-config-tool.html)
+**All information on this tool can be found here:** [http://www.myteamslab.com/2015/11/skype4b-lync-dhcp-config-tool.html](http://www.myteamslab.com/2015/11/skype4b-lync-dhcp-config-tool.html)
 
 
         
